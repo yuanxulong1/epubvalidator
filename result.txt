@@ -1,0 +1,784 @@
+检查的目录：E:\epub1\成都转专题数据(第一批7月)
+E:\epub1\成都转专题数据(第一批7月)\CD00000022.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000104.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000194.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000310.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000311.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000324.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000325.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000326.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000327.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000904.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000910.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000940.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000949.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000955.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00000994.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00001001.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00001112.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00001764.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00001977.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00002368.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00002371.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00002452.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00005251.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00007967.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00007980.epub
+E:\epub1\成都转专题数据(第一批7月)\CD00008162.epub
+E:\epub1\成都转专题数据(第一批7月)\TS00052632.epub
+
+有问题的文档数量:27
+1.E:\epub1\成都转专题数据(第一批7月)\CD00000022.epub
+		can not find link: Text/part0004_split_000.html#CHP4-1
+		can not find link: Text/part0005_split_000.html#CHP5-1
+2.E:\epub1\成都转专题数据(第一批7月)\CD00000104.epub
+		can not find link: Text/part0003.html#mllj1
+		can not find link: Text/part0003.html#mllj2
+		can not find link: Text/part0003.html#mllj3
+		can not find link: Text/part0003.html#mllj4
+		can not find link: Text/part0003.html#mllj5
+		can not find link: Text/part0003.html#mllj6
+		can not find link: Text/part0003.html#mllj7
+		can not find link: Text/part0003.html#mllj8
+		can not find link: Text/part0003.html#mllj9
+		can not find link: Text/part0003.html#mllj10
+		can not find link: Text/part0003.html#mllj11
+		can not find link: Text/part0003.html#mllj12
+		can not find link: Text/part0003.html#mllj13
+		can not find link: Text/part0003.html#mllj14
+		can not find link: Text/part0003.html#mllj15
+		can not find link: Text/part0003.html#mllj16
+		can not find link: Text/part0003.html#mllj17
+		can not find link: Text/part0003.html#mllj18
+		can not find link: Text/part0004.html#mllj1
+		can not find link: Text/part0004.html#mllj2
+		can not find link: Text/part0004.html#mllj3
+		can not find link: Text/part0004.html#mllj4
+		can not find link: Text/part0004.html#mllj5
+		can not find link: Text/part0004.html#mllj6
+		can not find link: Text/part0004.html#mllj7
+		can not find link: Text/part0004.html#mllj8
+		can not find link: Text/part0004.html#mllj9
+		can not find link: Text/part0004.html#mllj10
+		can not find link: Text/part0004.html#mllj11
+		can not find link: Text/part0004.html#mllj12
+		can not find link: Text/part0004.html#mllj13
+		can not find link: Text/part0004.html#mllj14
+		can not find link: Text/part0004.html#mllj15
+		can not find link: Text/part0004.html#mllj16
+		can not find link: Text/part0004.html#mllj17
+		can not find link: Text/part0004.html#mllj18
+		can not find link: Text/part0004.html#mllj19
+		can not find link: Text/part0005.html#mllj1
+		can not find link: Text/part0005.html#mllj2
+		can not find link: Text/part0005.html#mllj3
+		can not find link: Text/part0005.html#mllj4
+		can not find link: Text/part0005.html#mllj5
+		can not find link: Text/part0005.html#mllj6
+		can not find link: Text/part0005.html#mllj7
+		can not find link: Text/part0005.html#mllj8
+		can not find link: Text/part0005.html#mllj9
+		can not find link: Text/part0005.html#mllj10
+		can not find link: Text/part0005.html#mllj11
+		can not find link: Text/part0005.html#mllj12
+		can not find link: Text/part0006.html#mllj1
+		can not find link: Text/part0006.html#mllj2
+		can not find link: Text/part0006.html#mllj3
+		can not find link: Text/part0006.html#mllj4
+		can not find link: Text/part0006.html#mllj5
+		can not find link: Text/part0006.html#mllj6
+		can not find link: Text/part0006.html#mllj7
+		can not find link: Text/part0006.html#mllj8
+		can not find link: Text/part0006.html#mllj9
+		can not find link: Text/part0006.html#mllj10
+		can not find link: Text/part0006.html#mllj11
+		can not find link: Text/part0006.html#mllj12
+		can not find link: Text/part0006.html#mllj13
+		can not find link: Text/part0006.html#mllj14
+		can not find link: Text/part0007.html#mllj1
+		can not find link: Text/part0007.html#mllj2
+		can not find link: Text/part0007.html#mllj3
+		can not find link: Text/part0007.html#mllj4
+		can not find link: Text/part0007.html#mllj5
+		can not find link: Text/part0007.html#mllj6
+		can not find link: Text/part0007.html#mllj7
+		can not find link: Text/part0007.html#mllj8
+		can not find link: Text/part0007.html#mllj9
+		can not find link: Text/part0007.html#mllj10
+		can not find link: Text/part0007.html#mllj11
+		can not find link: Text/part0007.html#mllj12
+		can not find link: Text/part0007.html#mllj13
+		can not find link: Text/part0007.html#mllj14
+3.E:\epub1\成都转专题数据(第一批7月)\CD00000194.epub
+		can not find link: Text/part0007_split_000.html#sec001
+		can not find link: Text/part0008_split_000.html#sec001
+		can not find link: Text/part0009_split_000.html#sec001
+		can not find link: Text/part0010_split_000.html#sec001
+		can not find link: Text/part0011_split_000.html#sec001
+		can not find link: Text/part0012_split_000.html#sec001
+		can not find link: Text/part0013_split_000.html#sec001
+		can not find link: Text/part0014_split_000.html#sec001
+		can not find link: Text/part0015_split_000.html#sec001
+		can not find link: Text/part0016_split_000.html#sec001
+		can not find link: Text/part0017_split_000.html#sec001
+		can not find link: Text/part0018_split_000.html#sec001
+		can not find link: Text/part0020_split_000.html#sec001
+4.E:\epub1\成都转专题数据(第一批7月)\CD00000310.epub
+		missing resource Text/part0005.html
+		missing resource Text/part0006.html
+		missing resource Text/part0007.html
+		missing resource Text/part0008.html
+		missing resource Text/part0009.html
+		missing resource Text/part0010.html
+		missing resource Text/part0011.html
+		missing resource Text/part0012.html
+		missing resource Text/part0013.html
+		missing resource Text/part0014.html
+		missing resource Text/part0015.html
+		missing resource Text/part0016.html
+		missing resource Text/part0017.html
+		missing resource Text/part0018.html
+		missing resource Text/part0019.html
+		missing resource Text/part0020.html
+		missing resource Text/part0021.html
+		missing resource Text/part0022.html
+		missing resource Text/part0023.html
+		missing resource Text/part0024.html
+		missing resource Text/part0025.html
+		missing resource Text/part0026.html
+		missing resource Text/part0027.html
+		missing resource Text/part0028.html
+		missing resource Images/cover.jpg
+5.E:\epub1\成都转专题数据(第一批7月)\CD00000311.epub
+		missing resource Text/part0030.html
+		missing resource Text/part0031.html
+		missing resource Text/part0032.html
+		missing resource Text/part0033.html
+		missing resource Text/part0034.html
+		missing resource Text/part0035.html
+		missing resource Text/part0036.html
+		missing resource Text/part0037.html
+		missing resource Text/part0038.html
+		missing resource Text/part0039.html
+		missing resource Text/part0040.html
+		missing resource Text/part0041.html
+		missing resource Text/part0042.html
+		missing resource Text/part0043.html
+		missing resource Text/part0044.html
+		missing resource Text/part0045.html
+		missing resource Text/part0046.html
+		missing resource Text/part0047.html
+		missing resource Text/part0048.html
+		missing resource Text/part0049.html
+		missing resource Text/part0050.html
+		missing resource Text/part0051.html
+		missing resource Text/part0052.html
+		missing resource Text/part0053.html
+		missing resource Text/part0054.html
+		missing resource Text/part0055.html
+		missing resource Images/cover.jpg
+6.E:\epub1\成都转专题数据(第一批7月)\CD00000324.epub
+		missing resource Images/frontcover.jpg
+		missing resource Images/cover.jpg
+7.E:\epub1\成都转专题数据(第一批7月)\CD00000325.epub
+		missing resource Images/frontcover.jpg
+		missing resource Images/cover.jpg
+8.E:\epub1\成都转专题数据(第一批7月)\CD00000326.epub
+		missing resource Images/frontcover.jpg
+		missing resource Images/cover.jpg
+9.E:\epub1\成都转专题数据(第一批7月)\CD00000327.epub
+		missing resource Images/frontcover.jpg
+		missing resource Images/cover.jpg
+10.E:\epub1\成都转专题数据(第一批7月)\CD00000904.epub
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+		missing resource chapter036.html
+		missing resource chapter037.html
+		missing resource chapter038.html
+11.E:\epub1\成都转专题数据(第一批7月)\CD00000910.epub
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+		missing resource chapter036.html
+		missing resource chapter037.html
+		missing resource chapter038.html
+		missing resource chapter039.html
+		missing resource chapter040.html
+		missing resource chapter041.html
+		missing resource chapter042.html
+		missing resource chapter043.html
+		missing resource chapter044.html
+		missing resource chapter045.html
+		missing resource chapter046.html
+		missing resource chapter047.html
+		missing resource chapter048.html
+		missing resource chapter049.html
+		missing resource chapter050.html
+		missing resource chapter051.html
+		missing resource chapter052.html
+		missing resource chapter053.html
+		missing resource chapter054.html
+		missing resource chapter055.html
+		missing resource chapter056.html
+		missing resource chapter057.html
+		missing resource chapter058.html
+		missing resource chapter059.html
+		missing resource chapter060.html
+		missing resource chapter061.html
+		missing resource chapter062.html
+		missing resource chapter063.html
+		missing resource chapter064.html
+		missing resource chapter065.html
+		missing resource chapter066.html
+		missing resource chapter067.html
+		missing resource chapter068.html
+12.E:\epub1\成都转专题数据(第一批7月)\CD00000940.epub
+		missing resource chapter004.html
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+		missing resource chapter036.html
+13.E:\epub1\成都转专题数据(第一批7月)\CD00000949.epub
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+14.E:\epub1\成都转专题数据(第一批7月)\CD00000955.epub
+		missing resource chapter003.html
+		missing resource chapter004.html
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+15.E:\epub1\成都转专题数据(第一批7月)\CD00000994.epub
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+16.E:\epub1\成都转专题数据(第一批7月)\CD00001001.epub
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+17.E:\epub1\成都转专题数据(第一批7月)\CD00001112.epub
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+18.E:\epub1\成都转专题数据(第一批7月)\CD00001764.epub
+		can not find link: chapter005.html#subid11
+19.E:\epub1\成都转专题数据(第一批7月)\CD00001977.epub
+20.E:\epub1\成都转专题数据(第一批7月)\CD00002368.epub
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+		missing resource chapter036.html
+		missing resource chapter037.html
+		missing resource chapter038.html
+		missing resource chapter039.html
+		missing resource chapter040.html
+		missing resource chapter041.html
+		missing resource chapter042.html
+		missing resource chapter043.html
+		missing resource chapter044.html
+		missing resource chapter045.html
+		missing resource chapter046.html
+		missing resource chapter047.html
+		missing resource chapter048.html
+		missing resource chapter049.html
+		missing resource chapter050.html
+		missing resource chapter051.html
+		missing resource chapter052.html
+		missing resource chapter053.html
+		missing resource chapter054.html
+		missing resource chapter055.html
+		missing resource chapter056.html
+		missing resource chapter057.html
+		missing resource chapter058.html
+		missing resource chapter059.html
+		missing resource chapter060.html
+		missing resource chapter061.html
+		missing resource chapter062.html
+		missing resource chapter063.html
+		missing resource chapter064.html
+		missing resource chapter065.html
+		missing resource chapter066.html
+		missing resource chapter067.html
+		missing resource chapter068.html
+		missing resource chapter069.html
+		missing resource images/figure-0010-001.jpg
+		missing resource images/figure-0013-001.jpg
+		missing resource images/figure-0015-001.jpg
+		missing resource images/figure-0020-001.jpg
+		missing resource images/figure-0023-001.jpg
+		missing resource images/figure-0025-001.jpg
+		missing resource images/figure-0029-001.jpg
+		missing resource images/figure-0031-001.jpg
+		missing resource images/figure-0032-001.jpg
+		missing resource images/figure-0034-001.jpg
+		missing resource images/figure-0034-002.jpg
+		missing resource images/figure-0036-001.jpg
+		missing resource images/figure-0038-001.jpg
+		missing resource images/figure-0039-001.jpg
+		missing resource images/figure-0041-001.jpg
+		missing resource images/figure-0044-001.jpg
+		missing resource images/figure-0047-001.jpg
+		missing resource images/figure-0048-001.jpg
+		missing resource images/figure-0048-002.jpg
+		missing resource images/figure-0049-001.jpg
+		missing resource images/figure-0056-001.jpg
+		missing resource images/figure-0060-001.jpg
+		missing resource images/figure-0061-001.jpg
+		missing resource images/figure-0063-001.jpg
+		missing resource images/figure-0067-001.jpg
+		missing resource images/figure-0068-001.jpg
+		missing resource images/figure-0068-002.jpg
+21.E:\epub1\成都转专题数据(第一批7月)\CD00002371.epub
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+22.E:\epub1\成都转专题数据(第一批7月)\CD00002452.epub
+		missing resource chapter004.html
+		missing resource chapter005.html
+		missing resource chapter006.html
+		missing resource chapter007.html
+		missing resource chapter008.html
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+23.E:\epub1\成都转专题数据(第一批7月)\CD00005251.epub
+		missing resource chapter009.html
+		missing resource chapter010.html
+		missing resource chapter011.html
+		missing resource chapter012.html
+		missing resource chapter013.html
+		missing resource chapter014.html
+		missing resource chapter015.html
+		missing resource chapter016.html
+		missing resource chapter017.html
+		missing resource chapter018.html
+		missing resource chapter019.html
+		missing resource chapter020.html
+		missing resource chapter021.html
+		missing resource chapter022.html
+		missing resource chapter023.html
+		missing resource chapter024.html
+		missing resource chapter025.html
+		missing resource chapter026.html
+		missing resource chapter027.html
+		missing resource chapter028.html
+		missing resource chapter029.html
+		missing resource chapter030.html
+		missing resource chapter031.html
+		missing resource chapter032.html
+		missing resource chapter033.html
+		missing resource chapter034.html
+		missing resource chapter035.html
+		missing resource chapter036.html
+		missing resource chapter037.html
+		missing resource chapter038.html
+		missing resource chapter039.html
+		missing resource chapter040.html
+		missing resource chapter041.html
+		missing resource chapter042.html
+		missing resource chapter043.html
+		missing resource chapter044.html
+		missing resource chapter045.html
+		missing resource chapter046.html
+		missing resource chapter047.html
+		missing resource chapter048.html
+		missing resource chapter049.html
+		missing resource chapter050.html
+		missing resource images/frontcover.jpg
+		missing resource images/figure-0009-001.jpg
+		missing resource images/figure-0011-001.jpg
+		missing resource images/figure-0011-002.jpg
+		missing resource images/figure-0011-003.jpg
+		missing resource images/figure-0011-004.jpg
+		missing resource images/figure-0011-005.jpg
+		missing resource images/figure-0012-001.jpg
+		missing resource images/figure-0014-001.jpg
+		missing resource images/figure-0014-002.jpg
+		missing resource images/figure-0014-003.jpg
+		missing resource images/figure-0014-004.jpg
+		missing resource images/figure-0014-005.jpg
+		missing resource images/figure-0014-006.jpg
+		missing resource images/figure-0014-007.jpg
+		missing resource images/figure-0014-008.jpg
+		missing resource images/figure-0014-009.jpg
+		missing resource images/figure-0014-010.jpg
+		missing resource images/figure-0014-011.jpg
+		missing resource images/figure-0014-012.jpg
+		missing resource images/figure-0014-013.jpg
+		missing resource images/figure-0014-014.jpg
+		missing resource images/figure-0014-015.jpg
+		missing resource images/figure-0014-016.jpg
+		missing resource images/figure-0014-017.jpg
+		missing resource images/figure-0014-018.jpg
+		missing resource images/figure-0014-019.jpg
+		missing resource images/figure-0014-020.jpg
+		missing resource images/figure-0014-021.jpg
+		missing resource images/figure-0015-001.jpg
+		missing resource images/figure-0017-001.jpg
+		missing resource images/figure-0017-002.jpg
+		missing resource images/figure-0017-003.jpg
+		missing resource images/figure-0017-004.jpg
+		missing resource images/figure-0017-005.jpg
+		missing resource images/figure-0017-006.jpg
+		missing resource images/figure-0017-007.jpg
+		missing resource images/figure-0017-008.jpg
+		missing resource images/figure-0017-009.jpg
+		missing resource images/figure-0017-010.jpg
+		missing resource images/figure-0017-011.jpg
+		missing resource images/figure-0017-012.jpg
+		missing resource images/figure-0018-001.jpg
+		missing resource images/figure-0018-002.jpg
+		missing resource images/figure-0018-003.jpg
+		missing resource images/figure-0020-001.jpg
+		missing resource images/figure-0020-002.jpg
+		missing resource images/figure-0020-003.jpg
+		missing resource images/figure-0020-004.jpg
+		missing resource images/figure-0020-005.jpg
+		missing resource images/figure-0020-006.jpg
+		missing resource images/figure-0020-007.jpg
+		missing resource images/figure-0020-008.jpg
+		missing resource images/figure-0020-009.jpg
+		missing resource images/figure-0020-010.jpg
+		missing resource images/figure-0020-011.jpg
+		missing resource images/figure-0020-012.jpg
+		missing resource images/figure-0020-013.jpg
+		missing resource images/figure-0020-014.jpg
+		missing resource images/figure-0020-015.jpg
+		missing resource images/figure-0020-016.jpg
+		missing resource images/figure-0020-017.jpg
+		missing resource images/figure-0020-018.jpg
+		missing resource images/figure-0020-019.jpg
+		missing resource images/figure-0020-020.jpg
+		missing resource images/figure-0021-001.jpg
+		missing resource images/figure-0023-001.jpg
+		missing resource images/figure-0023-002.jpg
+		missing resource images/figure-0023-003.jpg
+		missing resource images/figure-0023-004.jpg
+		missing resource images/figure-0023-005.jpg
+		missing resource images/figure-0023-006.jpg
+		missing resource images/figure-0023-007.jpg
+		missing resource images/figure-0023-008.jpg
+		missing resource images/figure-0023-009.jpg
+		missing resource images/figure-0023-010.jpg
+		missing resource images/figure-0023-011.jpg
+		missing resource images/figure-0023-012.jpg
+		missing resource images/figure-0023-013.jpg
+		missing resource images/figure-0023-014.jpg
+		missing resource images/figure-0023-015.jpg
+		missing resource images/figure-0023-016.jpg
+		missing resource images/figure-0023-017.jpg
+		missing resource images/figure-0023-018.jpg
+		missing resource images/figure-0023-019.jpg
+		missing resource images/figure-0024-001.jpg
+		missing resource images/figure-0026-001.jpg
+		missing resource images/figure-0026-002.jpg
+		missing resource images/figure-0026-003.jpg
+		missing resource images/figure-0026-004.jpg
+		missing resource images/figure-0027-001.jpg
+		missing resource images/figure-0029-001.jpg
+		missing resource images/figure-0029-002.jpg
+		missing resource images/figure-0029-003.jpg
+		missing resource images/figure-0029-004.jpg
+		missing resource images/figure-0029-005.jpg
+		missing resource images/figure-0029-006.jpg
+		missing resource images/figure-0029-007.jpg
+		missing resource images/figure-0030-001.jpg
+		missing resource images/figure-0032-001.jpg
+		missing resource images/figure-0032-002.jpg
+		missing resource images/figure-0032-003.jpg
+		missing resource images/figure-0032-004.jpg
+		missing resource images/figure-0032-005.jpg
+		missing resource images/figure-0032-006.jpg
+		missing resource images/figure-0032-007.jpg
+		missing resource images/figure-0032-008.jpg
+		missing resource images/figure-0032-009.jpg
+		missing resource images/figure-0032-010.jpg
+		missing resource images/figure-0032-011.jpg
+		missing resource images/figure-0032-012.jpg
+		missing resource images/figure-0032-013.jpg
+		missing resource images/figure-0033-001.jpg
+		missing resource images/figure-0035-001.jpg
+		missing resource images/figure-0035-002.jpg
+		missing resource images/figure-0035-003.jpg
+		missing resource images/figure-0035-004.jpg
+		missing resource images/figure-0036-001.jpg
+		missing resource images/figure-0038-001.jpg
+		missing resource images/figure-0038-002.jpg
+		missing resource images/figure-0038-003.jpg
+		missing resource images/figure-0038-004.jpg
+		missing resource images/figure-0039-001.jpg
+		missing resource images/figure-0041-001.jpg
+		missing resource images/figure-0041-002.jpg
+		missing resource images/figure-0041-003.jpg
+		missing resource images/figure-0041-004.jpg
+		missing resource images/figure-0041-005.jpg
+		missing resource images/figure-0041-006.jpg
+		missing resource images/figure-0041-007.jpg
+		missing resource images/figure-0041-008.jpg
+		missing resource images/figure-0041-009.jpg
+		missing resource images/figure-0041-010.jpg
+		missing resource images/figure-0041-011.jpg
+		missing resource images/figure-0041-012.jpg
+		missing resource images/figure-0041-013.jpg
+		missing resource images/figure-0043-001.jpg
+		missing resource images/figure-0043-002.jpg
+		missing resource images/figure-0043-003.jpg
+		missing resource images/figure-0043-004.jpg
+		missing resource images/figure-0043-005.jpg
+		missing resource images/figure-0043-006.jpg
+		missing resource images/figure-0043-007.jpg
+		missing resource images/figure-0043-008.jpg
+		missing resource images/figure-0043-009.jpg
+		missing resource images/figure-0044-001.jpg
+		missing resource images/figure-0044-002.jpg
+		missing resource images/figure-0044-003.jpg
+		missing resource images/figure-0044-004.jpg
+		missing resource images/figure-0044-005.jpg
+		missing resource images/figure-0044-006.jpg
+		missing resource images/figure-0044-007.jpg
+		missing resource images/figure-0044-008.jpg
+		missing resource images/figure-0044-009.jpg
+		missing resource images/figure-0044-010.jpg
+		missing resource images/figure-0045-001.jpg
+		missing resource images/figure-0045-002.jpg
+		missing resource images/figure-0045-003.jpg
+		missing resource images/figure-0045-004.jpg
+		missing resource images/figure-0045-005.jpg
+		missing resource images/figure-0045-006.jpg
+		missing resource images/figure-0045-007.jpg
+		missing resource images/figure-0045-008.jpg
+		missing resource images/figure-0045-009.jpg
+		missing resource images/figure-0045-010.jpg
+		missing resource images/figure-0045-011.jpg
+		missing resource images/figure-0045-012.jpg
+		missing resource images/figure-0045-013.jpg
+		missing resource images/figure-0045-014.jpg
+		missing resource images/figure-0045-015.jpg
+		missing resource images/figure-0045-016.jpg
+		missing resource images/figure-0045-017.jpg
+		missing resource images/figure-0045-018.jpg
+		missing resource images/figure-0045-019.jpg
+		missing resource images/figure-0045-020.jpg
+		missing resource images/figure-0046-001.jpg
+		missing resource images/figure-0046-002.jpg
+		missing resource images/figure-0046-003.jpg
+		missing resource images/figure-0046-004.jpg
+		missing resource images/figure-0046-005.jpg
+		missing resource images/figure-0046-006.jpg
+		missing resource images/figure-0046-007.jpg
+		missing resource images/figure-0046-008.jpg
+		missing resource images/figure-0046-009.jpg
+		missing resource images/figure-0046-010.jpg
+		missing resource images/figure-0048-001.jpg
+		missing resource images/figure-0048-002.jpg
+		missing resource images/figure-0048-003.jpg
+		missing resource images/figure-0048-004.jpg
+		missing resource images/figure-0048-005.jpg
+		missing resource images/figure-0048-006.jpg
+		missing resource images/figure-0049-001.jpg
+		missing resource images/figure-0049-002.jpg
+		missing resource images/figure-0049-003.jpg
+		missing resource images/figure-0049-004.jpg
+		missing resource images/figure-0049-005.jpg
+		missing resource images/figure-0049-006.jpg
+		missing resource images/figure-0049-007.jpg
+		missing resource images/figure-0049-008.jpg
+24.E:\epub1\成都转专题数据(第一批7月)\CD00007967.epub
+25.E:\epub1\成都转专题数据(第一批7月)\CD00007980.epub
+		missing resource toc001.html
+26.E:\epub1\成都转专题数据(第一批7月)\CD00008162.epub
+27.E:\epub1\成都转专题数据(第一批7月)\TS00052632.epub
+		can not find link: chapter011.html#subid20
+		can not find link: chapter018.html#subid37
